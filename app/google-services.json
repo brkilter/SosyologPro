@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501784457525",
+    "project_id": "flutterders-fd61a",
+    "storage_bucket": "flutterders-fd61a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501784457525:android:d9810756061c0fa8c31c7c",
+        "android_client_info": {
+          "package_name": "com.example.sosyologpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501784457525-lrgijl0oqo3u3gf3taiom0tcr6ebqsel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ6zh_k8fm3XxLS-T_0utm3YonuKrE2jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501784457525-lrgijl0oqo3u3gf3taiom0tcr6ebqsel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
